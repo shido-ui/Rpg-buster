@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">RPG AI Hub</string>
+    <string name="app_description">Next-generation AI-driven fantasy RPG engine &amp; character nexus</string>
+    <string name="tagline">Explore immersive AI worlds, forge dynamic characters, or unite them in living narratives.</string>
+    
+    <!-- Mode Cards -->
+    <string name="mode_open_world_title">OPEN WORLD RPG</string>
+    <string name="mode_open_world_subtitle">Autonomous Sandbox</string>
+    <string name="mode_open_world_desc">Embark on living world simulations driven by dynamic reactive events, lore graphs, and unscripted environments.</string>
+    <string name="mode_open_world_tag">World Simulation</string>
+
+    <string name="mode_characters_title">CHARACTERS</string>
+    <string name="mode_characters_subtitle">Autonomous Persona Nexus</string>
+    <string name="mode_characters_desc">Forge, interact with, and evolve distinctive character personas with persistent multi-tier memory and motivations.</string>
+    <string name="mode_characters_tag">Persona Engine</string>
+
+    <string name="mode_rpg_characters_title">RPG + CHARACTERS</string>
+    <string name="mode_rpg_characters_subtitle">Unified Adventure</string>
+    <string name="mode_rpg_characters_desc">Fuse living world systems with autonomous party members, emergent relationship dynamics, and party banter.</string>
+    <string name="mode_rpg_characters_tag">Full Fusion</string>
+
+    <!-- Navigation & Actions -->
+    <string name="action_settings">Settings</string>
+    <string name="action_back">Go back</string>
+    <string name="action_launch_mode">Initialize Mode</string>
+    
+    <!-- Placeholders -->
+    <string name="status_phase1_badge">PHASE 1 ARCHITECTURE READY</string>
+    <string name="placeholder_status_badge">SYSTEM IN DEVELOPMENT</string>
+    <string name="placeholder_phase2_note">This module will be introduced in subsequent phases following data layer and engine architecture specifications.</string>
+    <string name="placeholder_planned_systems">Planned architectural integrations:</string>
+    
+    <!-- Settings -->
+    <string name="settings_title">Settings</string>
+    <string name="settings_section_appearance">Appearance</string>
+    <string name="settings_theme_system">System Default</string>
+    <string name="settings_theme_dark">Dark Fantasy (Recommended)</string>
+    <string name="settings_theme_light">Daylight Realm</string>
+    <string name="settings_section_about">About RPG AI Hub</string>
+    <string name="settings_about_desc">Modular, scalable Android foundation for next-generation RPG intelligence, character memory, and world simulations.</string>
+    <string name="settings_version_label">Version</string>
+    <string name="settings_build_phase_label">Build Phase</string>
+    <string name="settings_build_phase_value">Phase 1: Android Foundation</string>
+    <string name="settings_architecture_label">Architecture</string>
+    <string name="settings_architecture_value">Clean Architecture (Presentation, Domain, Data, Core)</string>
+</resources>

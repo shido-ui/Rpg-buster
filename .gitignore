@@ -1,0 +1,37 @@
+# Gradle & Build Artifacts
+.gradle/
+build/
+*/build/
+bin/
+gen/
+out/
+.kotlin/
+
+# Android Studio / IntelliJ IDEA
+*.iml
+.idea/
+!.idea/codeStyles/
+!.idea/copyright/
+!.idea/inspectionProfiles/
+!.idea/vcs.xml
+!.idea/misc.xml
+!.idea/modules.xml
+
+# Local Configuration & Sensitive Credentials
+local.properties
+.env
+*.jks
+*.keystore
+debug.keystore
+debug.keystore.base64
+my-upload-key.jks
+google-services.json
+
+# OS Specific
+.DS_Store
+Thumbs.db
+
+# Android Profiling & NDK
+captures/
+.externalNativeBuild/
+.cxx/
